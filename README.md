@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I’m currently working on my Portfolio<br>🌱 I’m currently learning NextJS, NodeJS, MongoDB<br>💻 Currently a Front-End Developer at QuickSiteGuru<br>🇦🇺 Based in Melbourne, Australia
+👨‍💻 I’m currently working on my Portfolio<br>🌱 I’m currently learning NextJS, NodeJS, MongoDB<br>💻 Currently a React Developer at QuickSiteGuru<br>🇦🇺 Based in Melbourne, Australia
 
 
 ## 🌐 Socials:
