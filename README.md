@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻💻 Currently a Computer Science Student at RMIT University<br>🇦🇺 Based in Melbourne, Australia
+💻 Currently a Computer Science Student at RMIT University<br>🇦🇺 Based in Melbourne, Australia
 
 
 ## 🌐 Socials:
